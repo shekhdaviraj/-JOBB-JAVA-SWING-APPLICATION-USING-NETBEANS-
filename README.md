@@ -1,7 +1,7 @@
 # -JOBB-JAVA-SWING-APPLICATION-USING-NETBEANS-
 
 <img src="https://forthebadge.com/images/badges/built-with-love.svg" /> <img src="https://forthebadge.com/images/badges/made-with-java.svg" />
-<img src="https://forthebadge.com/images/badges/contains-17-coffee-cups.svg" />
+
 
 JOBB is java swing application which is used in Textile Manufacturing Industry.
 <br>It is divided into 3 category named are :- <br>
@@ -58,5 +58,6 @@ By implementing this project, I learned how to make graphical user interface bas
 # Support
 You can contact me at shekhdaviraj12@gmail.com.
 
-
+<br>
+<img src="https://forthebadge.com/images/badges/contains-17-coffee-cups.svg" />
 
