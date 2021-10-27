@@ -1,6 +1,6 @@
 # -JOBB-JAVA-SWING-APPLICATION-USING-NETBEANS-
 
-<img src="https://forthebadge.com/images/badges/built-with-love.svg" /><br>
+<img src="https://forthebadge.com/images/badges/built-with-love.svg" />
 
 <img src="https://forthebadge.com/images/badges/made-with-java.svg" /><br>
 
