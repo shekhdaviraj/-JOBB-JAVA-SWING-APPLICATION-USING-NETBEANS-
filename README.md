@@ -3,8 +3,8 @@
 <img src="https://forthebadge.com/images/badges/built-with-love.svg" /> <img src="https://forthebadge.com/images/badges/made-with-java.svg" />
 <img src="https://forthebadge.com/images/badges/works-on-my-machine.svg" /><br>
 
-JOBB is java swing application which is used in textile manufacturing industry.
-<br>it is divided into 3 category named <br>
+JOBB is java swing application which is used in Textile Manufacturing Industry.
+<br>It is divided into 3 category named are :- <br>
 1. Packaging Slip <br>
 2. MeterMade<br>
 3. Tax Invoice 
