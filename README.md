@@ -1,7 +1,7 @@
 # -JOBB-JAVA-SWING-APPLICATION-USING-NETBEANS-
 
 <img src="https://forthebadge.com/images/badges/built-with-love.svg" /> <img src="https://forthebadge.com/images/badges/made-with-java.svg" />
-<img src="https://forthebadge.com/images/badges/works-on-my-machine.svg" /><br>
+<img src="https://forthebadge.com/images/badges/contains-17-coffee-cups.svg" />
 
 JOBB is java swing application which is used in Textile Manufacturing Industry.
 <br>It is divided into 3 category named are :- <br>
@@ -9,17 +9,16 @@ JOBB is java swing application which is used in Textile Manufacturing Industry.
 2. MeterMade<br>
 3. Tax Invoice 
 <br>
-
 Packaging slip will keep record of manufactured parsals of sarees containing details of sarees like size in mts 5, 5.5, fold, design no, fresh and damage pieces containing in that parsal with lot number to keep track of raw material used to manufacture exact fresh pieces and damage material will made return.<br>
 
 In Meter-Made new lot is added with total receievd raw material from party to manucfature sarees. it has all necessary fields including gst too.<br>
 
 Tax-invoice is final step to end the ongoing lot on manufacturing plant. Here we can make final inovoice and print it out including all fields ready and calculated automatically are listed below:<br>
 
-1.Total unused meter 
-2.Total Value of Supply
-3.Net Taxable value
-4.CGSR + IGST + SGST 
+1.Total unused meter <br>
+2.Total Value of Supply<br>
+3.Net Taxable value<br>
+4.CGSR + IGST + SGST <br>
 5.Total Bill Amount to be paid<br>
 
 # Technologies:
