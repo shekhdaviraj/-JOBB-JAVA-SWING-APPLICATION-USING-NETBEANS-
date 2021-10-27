@@ -38,6 +38,10 @@ Java Applet<br>
 
 
 
+# Prerequisites
+Xampp
+
+# Installation
 
 
 
