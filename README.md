@@ -1,8 +1,8 @@
 # -JOBB-JAVA-SWING-APPLICATION-USING-NETBEANS-
 
-<img src="https://forthebadge.com/images/badges/built-with-love.svg" width="50" height="50" /><br>
+<img src="https://forthebadge.com/images/badges/built-with-love.svg" /><br>
 
-<img src="https://forthebadge.com/images/badges/made-with-java.svg" width="50" height="50" /><br>
+<img src="https://forthebadge.com/images/badges/made-with-java.svg" /><br>
 
 JOBB is java swing application which is used in textile manufacturing industry.
 <br>it is divided into 3 category named 
