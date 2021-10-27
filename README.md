@@ -1,6 +1,6 @@
 # -JOBB-JAVA-SWING-APPLICATION-USING-NETBEANS-
 
-<img src="https://forthebadge.com/images/badges/built-with-love.svg" /> <img src="https://forthebadge.com/images/badges/made-with-java.svg" /><br>
+<img src="https://forthebadge.com/images/badges/built-with-love.svg" /> <img src="https://forthebadge.com/images/badges/made-with-java.svg" /><img src="https://forthebadge.com/images/badges/works-on-my-machine.svg" /><br>
 
 JOBB is java swing application which is used in textile manufacturing industry.
 <br>it is divided into 3 category named 
@@ -27,14 +27,19 @@ Java<br>
 Database: MySQL<br>
 Java Applet<br>
 
-# Screenshots:
+# Snapshots of Running Application - JOBB:
 
-![image]()
 
-<img src="https://user-images.githubusercontent.com/29841028/139048495-2c7125ab-e21b-4e19-a942-2a91efb1989d.png" width="400" height="400" /><br>
+<img src="https://user-images.githubusercontent.com/29841028/139048495-2c7125ab-e21b-4e19-a942-2a91efb1989d.png"/>
+<h3> Main Frame -> Home </h3><br>
+
 ![image](https://user-images.githubusercontent.com/29841028/139047749-3e07d508-4188-4489-9a3e-3c2ad09c6473.png)
+<h3> Packaging Slip Frame </h3><br>
 ![image](https://user-images.githubusercontent.com/29841028/139048760-4ed95914-3ab3-4e84-87df-707782dcc960.png)
+<h3> Meter Made Frame </h3><br>
 ![image](https://user-images.githubusercontent.com/29841028/139048572-317c934c-645d-4170-8877-2e7c8359720c.png)
+<h3> Final Invoice Frame </h3><br>
+
 
 
 
@@ -44,6 +49,11 @@ Xampp
 # Installation
 
 
+# Conclusion:
+By implementing this project, I learned how to make graphical user interface based application software using java swing. I also included some core concepts of java. Projects like this helps us to develop our problem-solving skills by which we can also compete with others to stand out from the crowd.
+
+# Support
+You can contact me at shekhdaviraj12@gmail.com.
 
 
 
