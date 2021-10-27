@@ -30,5 +30,9 @@ Net Taxable value
 CGSR + IGST + SGST 
 Total Bill Amount to be paid
 
+# Technologies:
 
+Java
+Database: MySQL
+Java Applet
 
