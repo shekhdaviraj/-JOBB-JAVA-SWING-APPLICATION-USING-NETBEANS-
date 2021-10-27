@@ -1,12 +1,13 @@
 # -JOBB-JAVA-SWING-APPLICATION-USING-NETBEANS-
 
-<img src="https://forthebadge.com/images/badges/built-with-love.svg" /> <img src="https://forthebadge.com/images/badges/made-with-java.svg" /><img src="https://forthebadge.com/images/badges/works-on-my-machine.svg" /><br>
+<img src="https://forthebadge.com/images/badges/built-with-love.svg" /> <img src="https://forthebadge.com/images/badges/made-with-java.svg" />
+<img src="https://forthebadge.com/images/badges/works-on-my-machine.svg" /><br>
 
 JOBB is java swing application which is used in textile manufacturing industry.
-<br>it is divided into 3 category named 
-1. Packaging Slip 
-2. MeterMade
-3. Tax Invoice
+<br>it is divided into 3 category named <br>
+1. Packaging Slip <br>
+2. MeterMade<br>
+3. Tax Invoice 
 <br>
 
 Packaging slip will keep record of manufactured parsals of sarees containing details of sarees like size in mts 5, 5.5, fold, design no, fresh and damage pieces containing in that parsal with lot number to keep track of raw material used to manufacture exact fresh pieces and damage material will made return.<br>
