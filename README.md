@@ -29,16 +29,16 @@ Java Applet<br>
 
 # Snapshots of Running Application - JOBB:
 
-
+<h3> Main Frame -> Home </h3><hr>
 <img src="https://user-images.githubusercontent.com/29841028/139048495-2c7125ab-e21b-4e19-a942-2a91efb1989d.png"/>
-<h3> Main Frame -> Home </h3><br>
+<h3> Packaging Slip Frame </h3><hr>
 
 ![image](https://user-images.githubusercontent.com/29841028/139047749-3e07d508-4188-4489-9a3e-3c2ad09c6473.png)
-<h3> Packaging Slip Frame </h3><br>
+<h3> Meter Made Frame </h3><hr>
 ![image](https://user-images.githubusercontent.com/29841028/139048760-4ed95914-3ab3-4e84-87df-707782dcc960.png)
-<h3> Meter Made Frame </h3><br>
+<h3> Final Invoice Frame </h3><hr>
 ![image](https://user-images.githubusercontent.com/29841028/139048572-317c934c-645d-4170-8877-2e7c8359720c.png)
-<h3> Final Invoice Frame </h3><br>
+
 
 
 
